@@ -152,7 +152,7 @@ Double-click `Tron.exe` to open the main interface.
 2. Click "Select File" button and choose your `rule.txt`
 
 3. Set matching rules:
-   - **Prefix Length**: Enter `0`
+   - **Prefix Length**: Enter `0` or `2`
    - **Suffix Length**: Enter `6` or `8`
 
 **Example:**
@@ -163,6 +163,15 @@ Prefix 0 + Suffix 6, generated result:
 TGxxxxxxxxxxxxxxxxxxxxxxxxxxxxx888888
 ↑↑                              ↑↑↑↑↑↑
 Prefix 0 match                   Suffix 6 match
+```
+**Example:**
+```
+Target Address: TTTTTTTTTT8888888888
+
+Prefix 2 + Suffix 6, generated result:
+TTxxxxxxxxxxxxxxxxxxxxxxxxxxxxx888888
+↑↑                              ↑↑↑↑↑↑
+Prefix 2 match                   Suffix 6 match
 ```
 
 4. Click **"Start Generation"** button
