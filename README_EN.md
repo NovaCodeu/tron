@@ -97,7 +97,7 @@ Double-click `Tron.exe` to open the main interface.
 ### ⚙️ Step 2: Parameter Settings (Important!)
 
 <p align="center">
-  <img width="100%" src="/software1.png?raw=true"/>
+  <img width="100%" src="/software.png?raw=true"/>
 </p>
 
 #### 📝 Parameter Details:
@@ -174,7 +174,7 @@ Prefix 0 match                   Suffix 6 match
 Generation results will be displayed in real-time in the "Generation Results" area at the bottom:
 
 <p align="center">
-  <img width="100%" src="/software2.png?raw=true"/>
+  <img width="100%" src="/software1.png?raw=true"/>
 </p>
 
 **Results Include:**
