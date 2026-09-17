@@ -93,7 +93,7 @@
 ### ⚙️ 第二步：参数设置（重要！）
 
 <p align="center">
-  <img width="100%" src="/software1.png?raw=true"/>
+  <img width="100%" src="/software.png?raw=true"/>
 </p>
 
 #### 📝 参数详解：
@@ -170,7 +170,7 @@ TGxxxxxxxxxxxxxxxxxxxxxxxxxxxxx888888
 生成结果会实时显示在界面下方的「生成结果」区域：
 
 <p align="center">
-  <img width="100%" src="/software2.png?raw=true"/>
+  <img width="100%" src="/software1.png?raw=true"/>
 </p>
 
 **结果包含：**
