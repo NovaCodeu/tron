@@ -358,7 +358,7 @@ Get-FileHash .\Tron.zip -Algorithm SHA256
 如果本项目对您有所帮助，欢迎捐赠支持持续开发：
 
 ```
-TRC20 地址：TQKm6h5pCWWGtwuxEYzMBt161b52oooooo
+TRC20 地址：TQKQSG3CmQ6d6PR1roi2fPQdv2KKKKKKKK
 ```
 
 ---
